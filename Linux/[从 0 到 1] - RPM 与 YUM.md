@@ -95,7 +95,7 @@ yum-utils 是 YUM 官方提供的增强 YUM 的工具集，通过命令行可以
 
 ### 如何安装 yum-utils
 
-执行 yum 命令: `yum install -y yum-utils`
+执行 yum 命令: `yum install yum-utils` , 遇到问题输入 `y` 即可。
 
 ###  yum-utils 之 yumdownloader
 
